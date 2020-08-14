@@ -10,6 +10,7 @@
    Just put on the cloth on you and execute the file. You are now wearing harry's cloak.
    You observe that the previous captured image is visible when you are under the red cloth.
    
-   ###### So, First execute Background.py, click q and then run Invisible.py, now put on your Red-cloak you will see the magic.
+   ###### So, First execute Background.py, click q and then run Invisible.py, now put on your Red-cloak you will see the magic. :crystal_ball:
    
    
+### I also used Morphological Transformations for better experience!

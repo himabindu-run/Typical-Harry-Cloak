@@ -1,4 +1,4 @@
-# Typical-Harry-Cloak
+# Typical-Harry-Cloak :cherry_blossom:
 #### This is a typical Harry potter's invisible cloak made with OpenCV.
 - You need a Bright shiny Orange-Red cloak to play with.
 
